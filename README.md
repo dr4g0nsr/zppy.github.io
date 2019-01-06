@@ -1,2 +1,2 @@
-# zppy.github.io
+# zppy.dragutincirkovic.info
 Sentora repository
